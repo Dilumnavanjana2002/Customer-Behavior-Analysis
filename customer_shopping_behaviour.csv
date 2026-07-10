@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,Satisfaction_Score,Purchased_AI_Recommendation
+1,20,Female,Electronics,5,491,2455,Cash,1,No
+2,59,Female,Beauty,2,297,594,Card,4,No
+3,21,Male,Electronics,5,336,1680,Cash,3,Yes
+4,45,Female,Home,5,118,590,Digital Wallet,1,No
+5,30,Female,Home,2,460,920,Digital Wallet,4,No
+6,65,Female,Electronics,1,497,497,Cash,2,Yes
+7,65,Male,Groceries,1,359,359,Card,2,Yes
+8,22,Male,Sports,4,362,1448,Cash,4,Yes
+9,55,Female,Groceries,3,217,651,Card,2,No
+10,29,Female,Fashion,5,47,235,Card,3,Yes
+11,59,Male,Beauty,5,402,2010,Card,3,No
+12,18,Female,Electronics,3,295,885,Digital Wallet,2,Yes
+13,31,Male,Home,5,414,2070,Digital Wallet,4,No
+14,46,Female,Electronics,3,236,708,Cash,2,No
+15,65,Male,Home,1,416,416,Digital Wallet,3,Yes
+16,36,Male,Sports,2,42,84,Cash,5,Yes
+17,34,Male,Beauty,4,293,1172,Cash,3,Yes
+18,41,Female,Fashion,4,132,528,Cash,3,Yes
+19,24,Female,Sports,5,475,2375,Card,1,No
+20,43,Male,Fashion,5,134,670,Cash,3,No
+21,57,Male,Groceries,2,207,414,Card,2,No
+22,53,Female,Fashion,4,254,1016,Card,4,Yes
+23,41,Female,Groceries,4,73,292,Digital Wallet,3,No
+24,57,Female,Beauty,1,153,153,Cash,2,Yes
+25,34,Male,Fashion,2,77,154,Cash,4,No
+26,45,Female,Home,2,198,396,Card,4,No
+27,31,Male,Home,1,236,236,Digital Wallet,2,No
+28,35,Male,Fashion,4,410,1640,Card,2,Yes
+29,53,Female,Home,3,327,981,Digital Wallet,3,Yes
+30,40,Male,Fashion,5,173,865,Digital Wallet,4,Yes
+31,36,Male,Home,4,13,52,Digital Wallet,1,Yes
+32,27,Male,Sports,4,66,264,Cash,3,No
+33,27,Male,Sports,3,349,1047,Digital Wallet,5,No
+34,57,Male,Sports,2,205,410,Digital Wallet,3,Yes
+35,47,Female,Beauty,5,374,1870,Digital Wallet,4,Yes
+36,60,Male,Electronics,2,338,676,Digital Wallet,1,No
+37,49,Female,Home,2,167,334,Card,4,No
+38,18,Female,Sports,5,484,2420,Cash,4,No
+39,26,Male,Home,3,113,339,Cash,4,Yes
+40,53,Female,Home,3,85,255,Digital Wallet,4,No
+41,63,Female,Fashion,4,170,680,Card,1,No
+42,36,Male,Sports,2,160,320,Cash,4,No
+43,23,Female,Sports,2,241,482,Cash,1,Yes
+44,61,Male,Fashion,2,131,262,Digital Wallet,4,Yes
+45,63,Male,Electronics,3,93,279,Card,1,No
+46,48,Male,Groceries,2,136,272,Card,5,Yes
+47,37,Female,Beauty,1,310,310,Digital Wallet,4,Yes
+48,65,Female,Beauty,2,229,458,Cash,1,Yes
+49,45,Female,Beauty,5,82,410,Card,5,No
+50,46,Female,Sports,5,153,765,Cash,1,Yes
+51,41,Female,Groceries,1,47,47,Card,2,Yes
+52,23,Male,Home,5,93,465,Cash,3,No
+53,39,Male,Beauty,5,237,1185,Cash,2,No
+54,46,Male,Home,4,273,1092,Digital Wallet,1,No
+55,55,Male,Sports,3,132,396,Digital Wallet,5,No
+56,37,Female,Fashion,3,125,375,Card,3,Yes
+57,20,Male,Home,2,472,944,Digital Wallet,2,No
+58,47,Male,Sports,3,415,1245,Card,1,Yes
+59,58,Female,Sports,3,258,774,Cash,2,No
+60,24,Female,Groceries,4,137,548,Card,4,No
+61,33,Female,Electronics,2,251,502,Digital Wallet,3,No
+62,23,Male,Groceries,3,183,549,Cash,2,No
+63,62,Male,Groceries,4,173,692,Cash,4,No
+64,27,Female,Groceries,5,119,595,Cash,5,Yes
+65,46,Female,Sports,5,193,965,Cash,2,Yes
+66,62,Male,Electronics,5,59,295,Cash,2,No
+67,39,Female,Electronics,2,115,230,Card,4,Yes
+68,65,Male,Fashion,1,179,179,Digital Wallet,1,No
+69,63,Male,Beauty,4,260,1040,Cash,4,Yes
+70,22,Male,Electronics,4,375,1500,Cash,4,No
+71,52,Female,Groceries,1,151,151,Cash,4,Yes
+72,60,Female,Sports,4,416,1664,Cash,1,Yes
+73,29,Male,Electronics,1,134,134,Digital Wallet,1,Yes
+74,39,Female,Electronics,2,93,186,Cash,4,No
+75,51,Male,Beauty,2,178,356,Digital Wallet,1,No
+76,38,Female,Sports,4,294,1176,Digital Wallet,5,No
+77,47,Female,Electronics,3,252,756,Card,3,No
+78,23,Male,Electronics,1,262,262,Card,2,Yes
+79,31,Male,Beauty,2,25,50,Digital Wallet,3,No
+80,51,Female,Beauty,4,123,492,Card,1,No
+81,21,Female,Fashion,1,101,101,Cash,1,No
+82,31,Female,Home,2,278,556,Card,5,No
+83,51,Female,Sports,1,205,205,Digital Wallet,4,Yes
+84,41,Female,Home,1,61,61,Digital Wallet,5,No
+85,51,Female,Groceries,1,350,350,Digital Wallet,3,Yes
+86,34,Female,Groceries,4,126,504,Cash,4,No
+87,29,Female,Electronics,1,343,343,Card,2,Yes
+88,53,Female,Home,2,270,540,Card,5,Yes
+89,52,Female,Fashion,3,238,714,Cash,3,Yes
+90,20,Female,Electronics,4,360,1440,Card,5,No
+91,40,Male,Beauty,4,484,1936,Digital Wallet,5,Yes
+92,21,Male,Home,4,352,1408,Digital Wallet,3,Yes
+93,33,Female,Beauty,4,64,256,Card,5,Yes
+94,39,Male,Electronics,3,324,972,Cash,1,Yes
+95,39,Female,Groceries,4,134,536,Cash,4,Yes
+96,50,Female,Sports,2,493,986,Card,4,Yes
+97,35,Female,Groceries,4,443,1772,Digital Wallet,4,No
+98,28,Male,Fashion,3,146,438,Cash,2,Yes
+99,53,Female,Groceries,4,497,1988,Cash,1,No
+100,61,Male,Fashion,3,297,891,Card,3,No
+101,20,Male,Fashion,4,486,1944,Digital Wallet,1,Yes
+102,55,Female,Sports,2,26,52,Cash,3,No
+103,56,Female,Sports,2,419,838,Cash,3,Yes
+104,52,Male,Groceries,3,396,1188,Digital Wallet,3,Yes
+105,29,Female,Sports,2,449,898,Digital Wallet,5,Yes
+106,58,Female,Sports,3,186,558,Cash,4,Yes
+107,25,Female,Sports,4,470,1880,Digital Wallet,3,No
+108,52,Male,Beauty,1,481,481,Card,5,No
+109,29,Male,Groceries,4,95,380,Card,5,Yes
+110,60,Male,Fashion,4,284,1136,Cash,5,No
+111,57,Male,Electronics,2,365,730,Card,4,Yes
+112,52,Female,Home,4,370,1480,Cash,2,Yes
+113,37,Female,Electronics,4,342,1368,Digital Wallet,4,No
+114,61,Female,Beauty,4,258,1032,Digital Wallet,3,Yes
+115,56,Female,Electronics,3,499,1497,Card,4,No
+116,43,Male,Beauty,4,272,1088,Digital Wallet,5,Yes
+117,39,Female,Fashion,1,218,218,Card,3,Yes
+118,54,Male,Electronics,3,272,816,Cash,2,No
+119,49,Male,Sports,5,440,2200,Digital Wallet,3,No
+120,48,Male,Sports,2,327,654,Digital Wallet,2,No
+121,22,Male,Home,1,357,357,Card,5,Yes
+122,37,Male,Home,3,145,435,Cash,5,Yes
+123,50,Female,Beauty,5,133,665,Card,1,Yes
+124,35,Female,Electronics,4,115,460,Card,5,Yes
+125,52,Female,Home,2,268,536,Cash,1,No
+126,48,Male,Groceries,4,154,616,Card,1,Yes
+127,53,Female,Groceries,2,182,364,Card,5,No
+128,42,Female,Beauty,4,339,1356,Cash,2,No
+129,27,Female,Sports,2,162,324,Digital Wallet,1,No
+130,61,Male,Electronics,5,256,1280,Card,2,Yes
+131,42,Male,Groceries,3,314,942,Cash,3,Yes
+132,46,Female,Electronics,2,431,862,Digital Wallet,2,No
+133,31,Male,Home,1,123,123,Cash,2,Yes
+134,47,Female,Sports,2,53,106,Cash,1,No
+135,23,Female,Home,2,410,820,Digital Wallet,4,No
+136,47,Female,Groceries,1,261,261,Digital Wallet,2,Yes
+137,23,Female,Electronics,5,408,2040,Cash,4,No
+138,30,Female,Groceries,5,37,185,Cash,4,No
+139,25,Male,Fashion,4,73,292,Digital Wallet,5,Yes
+140,33,Female,Home,5,259,1295,Digital Wallet,1,Yes
+141,43,Male,Electronics,2,244,488,Card,3,Yes
+142,48,Female,Beauty,3,386,1158,Card,4,No
+143,56,Female,Electronics,1,144,144,Cash,2,No
+144,24,Male,Sports,1,220,220,Card,4,Yes
+145,45,Female,Sports,4,19,76,Cash,1,Yes
+146,47,Male,Fashion,5,213,1065,Digital Wallet,4,No
+147,23,Female,Electronics,5,156,780,Cash,5,Yes
+148,22,Male,Groceries,5,135,675,Card,4,No
+149,48,Female,Sports,3,22,66,Digital Wallet,4,No
+150,51,Male,Groceries,3,496,1488,Card,1,Yes
+151,41,Female,Fashion,4,148,592,Card,3,No
+152,35,Male,Home,5,151,755,Cash,4,Yes
+153,34,Male,Beauty,1,169,169,Digital Wallet,5,Yes
+154,53,Male,Sports,4,164,656,Card,5,No
+155,25,Male,Sports,1,434,434,Card,4,Yes
+156,61,Female,Beauty,3,489,1467,Digital Wallet,5,No
+157,38,Female,Electronics,3,401,1203,Card,4,No
+158,35,Male,Beauty,4,368,1472,Card,4,No
+159,50,Female,Home,1,294,294,Card,4,No
+160,30,Female,Home,2,177,354,Digital Wallet,4,Yes
+161,18,Male,Electronics,2,38,76,Card,2,No
+162,29,Male,Beauty,1,371,371,Digital Wallet,1,Yes
+163,20,Female,Beauty,5,381,1905,Cash,4,Yes
+164,39,Female,Fashion,3,244,732,Cash,4,Yes
+165,60,Female,Groceries,1,367,367,Digital Wallet,1,Yes
+166,36,Male,Beauty,5,324,1620,Digital Wallet,1,Yes
+167,41,Male,Fashion,1,321,321,Cash,3,Yes
+168,60,Male,Beauty,5,71,355,Card,4,No
+169,30,Female,Groceries,3,210,630,Card,3,Yes
+170,54,Female,Home,1,104,104,Digital Wallet,3,No
+171,22,Male,Groceries,3,379,1137,Digital Wallet,3,Yes
+172,40,Female,Electronics,1,142,142,Cash,1,No
+173,49,Female,Beauty,5,281,1405,Cash,5,No
+174,57,Female,Sports,4,372,1488,Card,4,No
+175,33,Male,Home,4,492,1968,Digital Wallet,3,No
+176,18,Male,Groceries,2,143,286,Digital Wallet,3,Yes
+177,39,Male,Fashion,3,186,558,Digital Wallet,3,Yes
+178,57,Male,Electronics,5,383,1915,Cash,3,No
+179,40,Male,Fashion,4,364,1456,Digital Wallet,4,Yes
+180,27,Male,Beauty,3,266,798,Cash,5,Yes
+181,59,Female,Fashion,3,436,1308,Digital Wallet,1,Yes
+182,23,Female,Sports,1,458,458,Cash,1,Yes
+183,59,Male,Home,5,326,1630,Card,5,No
+184,43,Male,Groceries,2,202,404,Card,3,Yes
+185,63,Female,Electronics,5,85,425,Card,2,Yes
+186,57,Female,Beauty,3,269,807,Cash,4,Yes
+187,52,Female,Home,1,55,55,Digital Wallet,2,No
+188,56,Male,Home,1,443,443,Digital Wallet,3,Yes
+189,24,Male,Beauty,1,68,68,Digital Wallet,4,No
+190,28,Male,Beauty,4,45,180,Card,1,No
+191,40,Male,Beauty,1,405,405,Digital Wallet,1,Yes
+192,50,Male,Fashion,2,340,680,Digital Wallet,4,Yes
+193,45,Female,Groceries,3,340,1020,Cash,3,Yes
+194,57,Female,Beauty,1,419,419,Card,2,No
+195,64,Female,Electronics,1,427,427,Card,3,Yes
+196,45,Male,Electronics,2,127,254,Card,2,No
+197,63,Male,Beauty,5,426,2130,Digital Wallet,5,No
+198,38,Male,Sports,3,21,63,Digital Wallet,2,Yes
+199,38,Male,Groceries,5,117,585,Digital Wallet,1,Yes
+200,63,Male,Fashion,3,338,1014,Card,4,No
+201,26,Female,Fashion,5,429,2145,Digital Wallet,5,No
+202,21,Male,Beauty,2,39,78,Digital Wallet,3,No
+203,49,Male,Sports,1,389,389,Digital Wallet,3,Yes
+204,62,Female,Electronics,4,494,1976,Card,2,Yes
+205,55,Female,Sports,3,426,1278,Card,4,No
+206,35,Female,Beauty,5,366,1830,Digital Wallet,4,Yes
+207,55,Female,Groceries,4,94,376,Cash,1,No
+208,31,Female,Fashion,3,92,276,Cash,2,Yes
+209,64,Male,Beauty,2,475,950,Digital Wallet,4,Yes
+210,62,Male,Home,2,314,628,Digital Wallet,4,Yes
+211,22,Female,Beauty,4,105,420,Digital Wallet,4,No
+212,34,Male,Fashion,2,219,438,Digital Wallet,1,Yes
+213,54,Female,Electronics,2,270,540,Cash,4,Yes
+214,22,Male,Beauty,4,451,1804,Digital Wallet,1,No
+215,54,Female,Sports,2,452,904,Cash,5,Yes
+216,35,Female,Groceries,5,197,985,Cash,1,No
+217,27,Male,Groceries,4,94,376,Card,2,No
+218,51,Male,Home,1,217,217,Card,3,No
+219,20,Male,Home,5,195,975,Card,4,Yes
+220,62,Female,Beauty,5,320,1600,Cash,4,No
+221,39,Female,Beauty,1,285,285,Digital Wallet,4,Yes
+222,54,Female,Sports,1,439,439,Cash,5,Yes
+223,49,Male,Home,1,482,482,Cash,3,Yes
+224,58,Female,Sports,5,178,890,Cash,4,No
+225,56,Male,Sports,4,477,1908,Card,3,No
+226,58,Female,Beauty,2,376,752,Cash,4,No
+227,55,Female,Groceries,3,50,150,Card,5,Yes
+228,49,Female,Home,2,144,288,Cash,5,No
+229,62,Female,Beauty,3,369,1107,Cash,1,Yes
+230,40,Female,Home,1,213,213,Cash,1,No
+231,46,Male,Groceries,3,470,1410,Digital Wallet,2,No
+232,63,Male,Electronics,3,256,768,Cash,5,Yes
+233,22,Male,Home,5,428,2140,Digital Wallet,4,No
+234,28,Female,Sports,1,241,241,Cash,2,Yes
+235,46,Male,Groceries,4,15,60,Digital Wallet,1,No
+236,42,Male,Fashion,1,196,196,Digital Wallet,1,Yes
+237,65,Female,Home,3,131,393,Card,3,Yes
+238,60,Male,Electronics,2,26,52,Digital Wallet,1,No
+239,51,Female,Groceries,5,59,295,Card,3,No
+240,43,Male,Home,2,374,748,Digital Wallet,2,No
+241,44,Male,Home,5,395,1975,Card,4,No
+242,60,Female,Fashion,3,228,684,Cash,3,Yes
+243,37,Male,Groceries,2,327,654,Cash,3,No
+244,31,Female,Sports,2,46,92,Card,3,Yes
+245,33,Male,Electronics,2,51,102,Card,5,Yes
+246,53,Male,Fashion,4,269,1076,Digital Wallet,3,Yes
+247,43,Male,Sports,2,104,208,Digital Wallet,4,No
+248,29,Female,Groceries,5,359,1795,Cash,3,No
+249,20,Male,Sports,5,64,320,Digital Wallet,3,Yes
+250,64,Female,Fashion,4,339,1356,Cash,5,No
+251,34,Female,Beauty,1,266,266,Cash,1,Yes
+252,36,Female,Groceries,4,106,424,Cash,5,No
+253,36,Female,Groceries,4,38,152,Digital Wallet,4,Yes
+254,24,Male,Electronics,2,262,524,Cash,1,Yes
+255,65,Male,Groceries,4,222,888,Card,1,Yes
+256,39,Male,Fashion,1,73,73,Cash,5,No
+257,30,Male,Fashion,2,376,752,Card,5,Yes
+258,48,Female,Sports,2,59,118,Card,1,No
+259,54,Female,Home,5,283,1415,Cash,5,Yes
+260,31,Female,Beauty,3,274,822,Cash,1,No
+261,42,Male,Fashion,1,448,448,Cash,3,No
+262,45,Male,Sports,3,249,747,Card,4,Yes
+263,42,Female,Fashion,1,394,394,Cash,1,No
+264,32,Female,Beauty,1,103,103,Cash,2,No
+265,57,Male,Beauty,4,476,1904,Digital Wallet,4,Yes
+266,32,Male,Fashion,2,469,938,Cash,4,No
+267,55,Female,Beauty,4,47,188,Digital Wallet,2,No
+268,55,Male,Groceries,2,438,876,Cash,4,Yes
+269,55,Female,Electronics,5,139,695,Digital Wallet,3,Yes
+270,33,Female,Electronics,1,434,434,Card,2,No
+271,50,Female,Fashion,1,262,262,Cash,2,No
+272,45,Female,Sports,4,313,1252,Digital Wallet,1,Yes
+273,59,Female,Groceries,3,157,471,Digital Wallet,5,No
+274,38,Male,Beauty,2,296,592,Digital Wallet,4,Yes
+275,48,Male,Sports,3,342,1026,Card,2,No
+276,29,Male,Beauty,4,393,1572,Cash,3,No
+277,51,Female,Groceries,3,175,525,Digital Wallet,1,Yes
+278,47,Male,Beauty,3,109,327,Cash,5,Yes
+279,18,Male,Fashion,1,66,66,Cash,5,Yes
+280,35,Male,Electronics,2,278,556,Card,3,No
+281,23,Female,Beauty,2,153,306,Cash,1,No
+282,42,Male,Sports,4,421,1684,Card,4,Yes
+283,31,Female,Beauty,3,33,99,Digital Wallet,5,No
+284,32,Male,Beauty,4,152,608,Digital Wallet,1,Yes
+285,30,Female,Groceries,4,186,744,Digital Wallet,1,No
+286,62,Male,Sports,4,318,1272,Cash,4,No
+287,37,Male,Fashion,5,483,2415,Cash,2,No
+288,41,Female,Electronics,2,389,778,Card,4,No
+289,34,Female,Sports,1,367,367,Card,1,Yes
+290,23,Female,Groceries,5,214,1070,Digital Wallet,3,No
+291,22,Male,Fashion,5,284,1420,Cash,2,Yes
+292,33,Female,Groceries,4,26,104,Cash,3,Yes
+293,29,Male,Electronics,4,412,1648,Card,4,No
+294,18,Male,Fashion,2,495,990,Cash,1,No
+295,60,Male,Groceries,1,119,119,Cash,3,No
+296,55,Female,Fashion,3,183,549,Digital Wallet,2,Yes
+297,58,Female,Electronics,2,38,76,Card,3,Yes
+298,50,Male,Home,3,219,657,Card,3,Yes
+299,49,Male,Sports,5,416,2080,Cash,2,Yes
+300,45,Female,Sports,4,205,820,Digital Wallet,2,No
+301,45,Female,Fashion,4,489,1956,Digital Wallet,3,Yes
+302,25,Male,Electronics,5,265,1325,Cash,2,No
+303,60,Male,Fashion,5,135,675,Cash,4,Yes
+304,27,Male,Beauty,2,292,584,Digital Wallet,1,No
+305,49,Female,Fashion,5,32,160,Card,3,No
+306,47,Female,Fashion,5,107,535,Digital Wallet,3,Yes
+307,25,Female,Beauty,2,164,328,Cash,3,Yes
+308,19,Male,Groceries,5,479,2395,Card,1,No
+309,32,Male,Electronics,5,122,610,Cash,2,No
+310,41,Male,Fashion,1,71,71,Card,4,Yes
+311,19,Female,Electronics,2,54,108,Cash,2,Yes
+312,52,Male,Home,3,388,1164,Digital Wallet,4,No
+313,21,Female,Fashion,3,61,183,Digital Wallet,4,No
+314,23,Female,Sports,2,120,240,Card,2,No
+315,60,Male,Fashion,4,245,980,Cash,3,No
+316,41,Female,Groceries,2,400,800,Cash,2,No
+317,29,Female,Home,2,124,248,Cash,5,No
+318,46,Female,Fashion,1,235,235,Digital Wallet,5,Yes
+319,20,Male,Fashion,2,87,174,Cash,1,No
+320,30,Female,Home,3,252,756,Digital Wallet,1,No
+321,38,Male,Home,4,181,724,Card,4,Yes
+322,45,Female,Groceries,5,45,225,Card,3,Yes
+323,27,Male,Electronics,3,231,693,Digital Wallet,1,No
+324,28,Female,Electronics,5,229,1145,Digital Wallet,3,Yes
+325,36,Female,Groceries,2,89,178,Cash,1,Yes
+326,26,Male,Fashion,1,313,313,Cash,1,Yes
+327,21,Female,Home,1,312,312,Cash,2,No
+328,61,Female,Groceries,2,403,806,Cash,5,Yes
+329,60,Male,Home,1,408,408,Card,3,Yes
+330,39,Female,Sports,4,158,632,Digital Wallet,5,No
+331,52,Female,Sports,2,108,216,Card,1,Yes
+332,48,Female,Electronics,4,66,264,Digital Wallet,4,No
+333,35,Female,Electronics,1,266,266,Digital Wallet,1,No
+334,37,Male,Groceries,1,429,429,Cash,4,No
+335,58,Male,Electronics,5,380,1900,Cash,4,Yes
+336,42,Male,Electronics,5,215,1075,Digital Wallet,3,No
+337,19,Female,Fashion,3,399,1197,Digital Wallet,1,No
+338,42,Male,Sports,1,189,189,Cash,1,No
+339,58,Female,Beauty,3,160,480,Card,5,Yes
+340,57,Male,Home,4,301,1204,Cash,4,Yes
+341,29,Female,Fashion,2,329,658,Digital Wallet,5,No
+342,23,Male,Sports,2,171,342,Card,1,Yes
+343,21,Female,Sports,3,438,1314,Card,3,No
+344,38,Male,Sports,2,386,772,Card,1,No
+345,47,Male,Electronics,2,97,194,Card,4,Yes
+346,20,Male,Groceries,3,26,78,Digital Wallet,5,No
+347,32,Female,Beauty,5,73,365,Cash,3,No
+348,47,Male,Beauty,5,494,2470,Digital Wallet,1,No
+349,48,Female,Groceries,1,170,170,Card,2,No
+350,36,Female,Groceries,4,316,1264,Card,4,Yes
+351,63,Male,Groceries,3,448,1344,Card,4,No
+352,28,Male,Fashion,5,450,2250,Cash,2,Yes
+353,28,Female,Sports,5,408,2040,Digital Wallet,3,No
+354,53,Male,Sports,5,60,300,Digital Wallet,3,No
+355,18,Male,Home,3,254,762,Card,3,Yes
+356,33,Female,Fashion,2,90,180,Card,3,Yes
+357,29,Male,Home,5,112,560,Digital Wallet,3,No
+358,29,Male,Home,5,405,2025,Card,5,Yes
+359,49,Male,Electronics,4,132,528,Digital Wallet,1,Yes
+360,54,Male,Fashion,2,487,974,Digital Wallet,4,No
+361,33,Male,Groceries,5,234,1170,Digital Wallet,1,Yes
+362,56,Male,Electronics,1,409,409,Card,2,Yes
+363,38,Male,Electronics,1,440,440,Card,5,No
+364,28,Male,Home,3,265,795,Digital Wallet,1,Yes
+365,49,Male,Sports,3,467,1401,Digital Wallet,4,No
+366,43,Male,Fashion,1,354,354,Card,4,Yes
+367,50,Female,Sports,3,411,1233,Card,3,No
+368,21,Female,Sports,2,95,190,Digital Wallet,2,No
+369,22,Female,Groceries,2,236,472,Card,5,Yes
+370,51,Female,Groceries,5,15,75,Card,4,No
+371,62,Male,Home,4,118,472,Card,4,No
+372,58,Male,Beauty,3,265,795,Card,2,No
+373,35,Male,Groceries,4,267,1068,Card,1,No
+374,45,Female,Groceries,2,150,300,Digital Wallet,4,Yes
+375,20,Female,Groceries,5,499,2495,Card,3,Yes
+376,48,Male,Electronics,4,433,1732,Card,5,No
+377,46,Male,Groceries,3,351,1053,Card,2,No
+378,34,Female,Home,4,404,1616,Cash,4,Yes
+379,23,Female,Home,1,269,269,Card,2,No
+380,64,Female,Electronics,3,178,534,Digital Wallet,2,No
+381,22,Male,Sports,2,170,340,Card,2,Yes
+382,52,Female,Sports,3,347,1041,Card,3,Yes
+383,61,Female,Groceries,3,112,336,Cash,1,Yes
+384,52,Male,Sports,3,56,168,Card,4,Yes
+385,56,Male,Fashion,4,225,900,Cash,4,No
+386,61,Female,Groceries,3,431,1293,Cash,3,Yes
+387,49,Female,Beauty,3,332,996,Digital Wallet,3,No
+388,52,Female,Home,5,290,1450,Digital Wallet,2,Yes
+389,29,Male,Groceries,5,227,1135,Digital Wallet,4,No
+390,60,Female,Groceries,1,386,386,Cash,5,Yes
+391,41,Male,Home,1,362,362,Cash,2,Yes
+392,57,Female,Groceries,3,45,135,Digital Wallet,4,No
+393,44,Female,Home,1,254,254,Digital Wallet,1,Yes
+394,29,Male,Groceries,4,273,1092,Cash,1,No
+395,60,Female,Beauty,2,173,346,Digital Wallet,4,Yes
+396,26,Female,Sports,3,461,1383,Cash,1,Yes
+397,26,Male,Home,1,451,451,Cash,3,No
+398,53,Female,Sports,4,147,588,Card,1,No
+399,20,Male,Beauty,5,438,2190,Cash,3,No
+400,40,Male,Fashion,2,199,398,Card,3,Yes
+401,37,Female,Fashion,3,453,1359,Digital Wallet,5,No
+402,40,Male,Fashion,2,463,926,Card,1,Yes
+403,29,Female,Beauty,3,42,126,Cash,4,Yes
+404,20,Female,Beauty,2,461,922,Card,2,No
+405,37,Male,Sports,3,460,1380,Digital Wallet,1,No
+406,40,Female,Groceries,4,68,272,Digital Wallet,4,Yes
+407,48,Male,Beauty,4,493,1972,Cash,2,Yes
+408,23,Female,Home,3,331,993,Cash,5,Yes
+409,61,Female,Electronics,1,363,363,Digital Wallet,3,Yes
+410,60,Female,Fashion,3,121,363,Cash,4,Yes
+411,33,Female,Sports,2,443,886,Digital Wallet,4,Yes
+412,19,Female,Home,4,223,892,Digital Wallet,3,No
+413,58,Male,Fashion,5,429,2145,Card,5,Yes
+414,22,Male,Beauty,2,376,752,Digital Wallet,1,Yes
+415,18,Female,Fashion,3,361,1083,Cash,2,No
+416,22,Male,Beauty,5,298,1490,Digital Wallet,5,No
+417,37,Female,Electronics,3,474,1422,Digital Wallet,4,No
+418,23,Male,Groceries,3,265,795,Digital Wallet,4,No
+419,18,Male,Groceries,4,264,1056,Digital Wallet,2,Yes
+420,19,Female,Sports,4,416,1664,Cash,4,Yes
+421,48,Female,Beauty,2,303,606,Card,3,No
+422,37,Male,Sports,1,428,428,Cash,4,No
+423,24,Female,Groceries,2,352,704,Card,2,No
+424,61,Female,Sports,4,482,1928,Digital Wallet,4,Yes
+425,55,Female,Fashion,4,455,1820,Cash,4,No
+426,41,Male,Fashion,5,457,2285,Card,1,Yes
+427,42,Female,Home,4,320,1280,Card,2,No
+428,20,Female,Electronics,5,427,2135,Cash,4,Yes
+429,53,Female,Electronics,2,55,110,Card,3,No
+430,46,Female,Home,5,419,2095,Cash,2,Yes
+431,65,Male,Fashion,5,57,285,Cash,4,No
+432,20,Male,Electronics,2,367,734,Digital Wallet,5,Yes
+433,18,Female,Fashion,1,179,179,Cash,2,No
+434,36,Male,Home,5,402,2010,Digital Wallet,1,No
+435,29,Female,Home,1,333,333,Cash,1,No
+436,60,Male,Electronics,1,106,106,Cash,2,Yes
+437,44,Female,Sports,2,47,94,Card,4,No
+438,26,Female,Electronics,4,106,424,Card,5,No
+439,62,Female,Home,2,99,198,Digital Wallet,1,No
+440,24,Female,Fashion,3,136,408,Digital Wallet,4,No
+441,26,Female,Home,3,430,1290,Card,2,Yes
+442,42,Male,Electronics,4,343,1372,Cash,2,Yes
+443,33,Male,Home,2,384,768,Cash,5,Yes
+444,31,Female,Home,1,138,138,Cash,1,Yes
+445,62,Male,Sports,4,458,1832,Cash,4,No
+446,61,Male,Electronics,2,339,678,Digital Wallet,3,Yes
+447,18,Female,Home,5,339,1695,Cash,4,Yes
+448,61,Female,Electronics,2,87,174,Digital Wallet,3,No
+449,61,Female,Electronics,2,438,876,Digital Wallet,5,Yes
+450,58,Male,Groceries,5,238,1190,Digital Wallet,3,No
+451,50,Female,Groceries,2,29,58,Card,1,No
+452,51,Female,Groceries,2,147,294,Digital Wallet,3,No
+453,22,Female,Electronics,1,273,273,Card,5,No
+454,29,Male,Sports,5,86,430,Digital Wallet,3,Yes
+455,22,Female,Fashion,4,482,1928,Cash,4,Yes
+456,45,Female,Fashion,1,273,273,Card,5,Yes
+457,63,Male,Fashion,5,376,1880,Cash,4,Yes
+458,44,Male,Electronics,2,139,278,Cash,2,Yes
+459,51,Female,Sports,4,225,900,Card,2,Yes
+460,61,Female,Sports,4,266,1064,Digital Wallet,3,Yes
+461,38,Male,Groceries,3,133,399,Cash,5,Yes
+462,40,Female,Sports,2,391,782,Card,3,No
+463,53,Female,Sports,2,28,56,Cash,4,Yes
+464,19,Female,Electronics,4,427,1708,Card,1,Yes
+465,42,Male,Sports,4,24,96,Cash,4,No
+466,54,Male,Fashion,4,123,492,Cash,1,Yes
+467,28,Male,Sports,2,237,474,Digital Wallet,3,Yes
+468,46,Male,Electronics,2,287,574,Digital Wallet,4,Yes
+469,37,Male,Home,2,223,446,Card,3,Yes
+470,64,Female,Fashion,3,33,99,Cash,2,No
+471,30,Male,Sports,1,290,290,Card,4,No
+472,35,Female,Electronics,1,45,45,Card,1,Yes
+473,37,Female,Home,1,146,146,Digital Wallet,3,Yes
+474,24,Male,Groceries,1,464,464,Cash,5,Yes
+475,53,Male,Groceries,3,114,342,Digital Wallet,4,Yes
+476,27,Male,Home,3,355,1065,Card,4,Yes
+477,24,Female,Home,4,92,368,Card,1,Yes
+478,53,Female,Home,2,281,562,Cash,4,Yes
+479,20,Female,Home,5,160,800,Card,5,Yes
+480,51,Female,Electronics,1,307,307,Digital Wallet,4,No
+481,27,Female,Fashion,1,299,299,Digital Wallet,5,Yes
+482,47,Male,Fashion,4,307,1228,Digital Wallet,5,No
+483,46,Female,Fashion,5,272,1360,Cash,5,Yes
+484,39,Male,Fashion,2,443,886,Cash,2,No
+485,51,Female,Home,4,493,1972,Cash,1,Yes
+486,59,Female,Sports,3,276,828,Cash,1,Yes
+487,58,Male,Beauty,5,328,1640,Digital Wallet,1,No
+488,61,Male,Electronics,3,471,1413,Cash,1,Yes
+489,35,Male,Sports,4,164,656,Card,4,Yes
+490,54,Female,Fashion,2,429,858,Digital Wallet,4,No
+491,62,Female,Beauty,5,111,555,Cash,4,No
+492,38,Male,Beauty,2,468,936,Digital Wallet,2,No
+493,45,Male,Beauty,3,350,1050,Cash,4,Yes
+494,65,Male,Sports,1,77,77,Card,1,Yes
+495,25,Male,Sports,4,196,784,Cash,1,Yes
+496,32,Male,Electronics,3,388,1164,Card,4,No
+497,47,Female,Fashion,1,226,226,Card,4,Yes
+498,20,Male,Groceries,3,269,807,Cash,3,Yes
+499,40,Female,Fashion,4,106,424,Digital Wallet,3,Yes
+500,56,Male,Groceries,3,399,1197,Digital Wallet,4,Yes
+501,32,Male,Electronics,2,458,916,Cash,5,No
+502,24,Male,Groceries,4,410,1640,Cash,1,No
+503,54,Female,Beauty,4,320,1280,Digital Wallet,3,Yes
+504,64,Male,Home,2,304,608,Cash,2,No
+505,30,Female,Fashion,2,463,926,Digital Wallet,2,Yes
+506,57,Female,Electronics,3,482,1446,Card,3,No
+507,19,Female,Fashion,4,147,588,Card,3,Yes
+508,54,Female,Beauty,4,237,948,Digital Wallet,5,No
+509,49,Female,Fashion,4,352,1408,Cash,5,Yes
+510,43,Female,Sports,3,420,1260,Card,1,No
+511,50,Female,Sports,4,410,1640,Cash,5,No
+512,29,Male,Electronics,2,496,992,Card,5,No
+513,52,Female,Electronics,2,58,116,Digital Wallet,5,Yes
+514,53,Female,Groceries,3,193,579,Card,5,Yes
+515,61,Female,Electronics,3,335,1005,Cash,1,No
+516,21,Male,Electronics,2,123,246,Card,5,No
+517,60,Male,Home,4,452,1808,Card,3,No
+518,39,Female,Electronics,4,463,1852,Digital Wallet,3,Yes
+519,47,Female,Sports,2,110,220,Card,5,No
+520,52,Male,Sports,4,240,960,Card,2,No
+521,43,Male,Beauty,5,165,825,Card,1,No
+522,62,Female,Beauty,4,91,364,Card,5,Yes
+523,19,Male,Electronics,1,10,10,Cash,1,Yes
+524,38,Male,Groceries,3,420,1260,Cash,2,No
+525,50,Male,Groceries,2,66,132,Card,4,No
+526,40,Male,Electronics,3,267,801,Digital Wallet,1,Yes
+527,18,Male,Sports,2,25,50,Cash,3,Yes
+528,36,Female,Fashion,3,210,630,Digital Wallet,3,No
+529,27,Female,Beauty,3,133,399,Card,3,Yes
+530,62,Female,Beauty,5,363,1815,Card,3,Yes
+531,38,Female,Electronics,1,247,247,Cash,1,No
+532,59,Female,Beauty,5,490,2450,Digital Wallet,4,No
+533,44,Female,Fashion,4,166,664,Card,5,No
+534,27,Male,Electronics,5,325,1625,Card,5,Yes
+535,63,Male,Groceries,5,460,2300,Card,3,No
+536,55,Female,Electronics,5,442,2210,Cash,2,No
+537,26,Female,Beauty,5,40,200,Cash,4,Yes
+538,33,Male,Home,4,121,484,Card,3,No
+539,28,Male,Electronics,1,159,159,Cash,4,No
+540,34,Female,Beauty,4,209,836,Cash,5,No
+541,22,Female,Groceries,5,318,1590,Card,1,Yes
+542,60,Female,Fashion,4,490,1960,Digital Wallet,2,No
+543,22,Female,Sports,3,339,1017,Cash,2,No
+544,18,Female,Home,1,437,437,Cash,4,Yes
+545,35,Female,Fashion,4,429,1716,Digital Wallet,2,No
+546,39,Female,Beauty,3,82,246,Digital Wallet,1,Yes
+547,30,Male,Beauty,3,72,216,Card,4,No
+548,38,Female,Sports,1,461,461,Card,5,No
+549,55,Male,Home,5,355,1775,Card,4,Yes
+550,24,Male,Home,5,70,350,Cash,2,No
+551,30,Male,Sports,3,287,861,Card,4,No
+552,52,Male,Beauty,2,394,788,Digital Wallet,3,Yes
+553,56,Male,Groceries,1,119,119,Cash,3,No
+554,31,Male,Electronics,4,188,752,Card,1,Yes
+555,39,Female,Electronics,3,353,1059,Card,1,Yes
+556,35,Male,Groceries,2,262,524,Card,4,Yes
+557,24,Male,Fashion,5,451,2255,Digital Wallet,1,Yes
+558,36,Male,Groceries,5,165,825,Cash,1,No
+559,54,Female,Groceries,5,105,525,Cash,2,Yes
+560,62,Male,Home,2,136,272,Cash,4,No
+561,39,Male,Sports,4,211,844,Cash,2,Yes
+562,38,Female,Groceries,4,296,1184,Card,1,No
+563,62,Male,Groceries,2,114,228,Digital Wallet,2,No
+564,55,Female,Sports,1,139,139,Card,2,Yes
+565,44,Male,Home,2,90,180,Digital Wallet,4,Yes
+566,53,Female,Sports,5,319,1595,Digital Wallet,5,No
+567,27,Female,Sports,2,240,480,Digital Wallet,5,No
+568,64,Male,Home,2,196,392,Digital Wallet,2,Yes
+569,44,Male,Fashion,5,86,430,Card,1,Yes
+570,65,Female,Fashion,2,332,664,Digital Wallet,3,No
+571,50,Female,Fashion,5,136,680,Digital Wallet,5,No
+572,39,Male,Beauty,3,484,1452,Card,4,No
+573,42,Female,Beauty,2,333,666,Card,3,No
+574,19,Male,Electronics,2,280,560,Cash,5,No
+575,46,Male,Home,1,215,215,Digital Wallet,5,Yes
+576,51,Female,Sports,1,176,176,Card,3,Yes
+577,19,Female,Home,5,68,340,Card,4,Yes
+578,24,Male,Beauty,3,136,408,Card,5,Yes
+579,20,Female,Home,3,191,573,Card,4,No
+580,61,Male,Sports,2,313,626,Card,5,Yes
+581,52,Male,Fashion,5,212,1060,Digital Wallet,5,No
+582,18,Female,Home,1,25,25,Card,1,No
+583,39,Male,Fashion,1,239,239,Digital Wallet,3,Yes
+584,55,Male,Fashion,1,264,264,Cash,3,No
+585,43,Female,Groceries,2,89,178,Digital Wallet,3,No
+586,59,Male,Groceries,5,224,1120,Cash,4,Yes
+587,25,Male,Fashion,4,102,408,Card,3,No
+588,52,Female,Home,5,170,850,Digital Wallet,5,Yes
+589,18,Female,Groceries,4,29,116,Digital Wallet,5,No
+590,49,Male,Fashion,4,396,1584,Digital Wallet,5,No
+591,19,Female,Home,3,92,276,Cash,4,Yes
+592,49,Male,Beauty,4,340,1360,Digital Wallet,1,Yes
+593,55,Male,Beauty,2,160,320,Card,3,No
+594,34,Female,Groceries,1,275,275,Card,2,Yes
+595,55,Male,Home,4,374,1496,Digital Wallet,3,No
+596,58,Male,Fashion,4,317,1268,Digital Wallet,5,Yes
+597,25,Male,Groceries,2,180,360,Digital Wallet,3,Yes
+598,47,Male,Sports,3,298,894,Cash,3,Yes
+599,23,Female,Fashion,5,249,1245,Card,2,Yes
+600,29,Female,Electronics,4,377,1508,Cash,1,Yes
+601,53,Male,Electronics,2,78,156,Card,1,No
+602,36,Male,Beauty,4,471,1884,Cash,3,Yes
+603,36,Male,Electronics,5,456,2280,Digital Wallet,5,Yes
+604,47,Female,Groceries,3,58,174,Digital Wallet,2,Yes
+605,52,Male,Beauty,4,158,632,Digital Wallet,2,Yes
+606,63,Male,Sports,4,46,184,Cash,3,Yes
+607,60,Male,Groceries,3,357,1071,Card,5,No
+608,56,Female,Electronics,3,268,804,Digital Wallet,2,Yes
+609,55,Male,Electronics,3,86,258,Cash,1,No
+610,38,Male,Electronics,3,75,225,Digital Wallet,2,No
+611,58,Male,Groceries,5,295,1475,Cash,4,No
+612,38,Male,Beauty,1,363,363,Card,5,No
+613,43,Male,Beauty,2,139,278,Cash,3,No
+614,24,Male,Sports,2,132,264,Cash,3,No
+615,63,Male,Electronics,2,344,688,Digital Wallet,1,No
+616,40,Male,Fashion,2,281,562,Card,2,No
+617,61,Male,Home,5,121,605,Digital Wallet,5,No
+618,63,Male,Home,1,69,69,Card,3,Yes
+619,19,Female,Beauty,4,225,900,Card,3,No
+620,31,Female,Groceries,2,405,810,Cash,1,No
+621,56,Male,Beauty,2,140,280,Card,2,No
+622,45,Male,Electronics,1,93,93,Card,4,No
+623,62,Female,Sports,3,88,264,Card,4,No
+624,36,Female,Electronics,4,122,488,Cash,2,No
+625,44,Female,Home,2,55,110,Cash,5,No
+626,20,Female,Groceries,5,86,430,Card,1,Yes
+627,31,Male,Electronics,2,494,988,Digital Wallet,5,Yes
+628,60,Male,Fashion,5,28,140,Cash,1,No
+629,27,Female,Groceries,3,81,243,Digital Wallet,1,No
+630,47,Male,Home,3,92,276,Card,3,No
+631,48,Male,Sports,4,109,436,Digital Wallet,1,Yes
+632,48,Male,Fashion,4,369,1476,Card,5,Yes
+633,52,Male,Fashion,1,155,155,Cash,5,No
+634,64,Female,Home,3,488,1464,Cash,5,No
+635,58,Female,Sports,4,341,1364,Card,3,Yes
+636,61,Female,Home,2,192,384,Digital Wallet,5,No
+637,48,Female,Sports,4,410,1640,Card,3,Yes
+638,24,Male,Home,4,229,916,Cash,2,Yes
+639,42,Female,Fashion,3,202,606,Card,3,Yes
+640,38,Male,Electronics,5,64,320,Card,2,No
+641,44,Female,Beauty,4,339,1356,Card,1,Yes
+642,24,Female,Beauty,3,419,1257,Digital Wallet,3,No
+643,57,Female,Fashion,3,381,1143,Digital Wallet,1,No
+644,28,Male,Home,5,280,1400,Digital Wallet,3,No
+645,20,Female,Home,5,165,825,Card,1,Yes
+646,27,Male,Sports,4,236,944,Card,3,No
+647,61,Male,Groceries,4,225,900,Digital Wallet,2,Yes
+648,65,Male,Sports,5,302,1510,Digital Wallet,4,No
+649,24,Female,Home,4,186,744,Card,3,Yes
+650,20,Female,Fashion,2,238,476,Digital Wallet,2,Yes
+651,22,Female,Electronics,1,423,423,Digital Wallet,1,Yes
+652,33,Female,Home,3,13,39,Card,3,Yes
+653,18,Female,Sports,3,284,852,Cash,4,Yes
+654,61,Female,Fashion,2,61,122,Card,2,No
+655,63,Male,Groceries,5,236,1180,Card,3,No
+656,21,Male,Sports,2,408,816,Digital Wallet,5,Yes
+657,35,Female,Groceries,5,488,2440,Digital Wallet,2,Yes
+658,20,Female,Electronics,4,58,232,Digital Wallet,1,Yes
+659,63,Male,Sports,3,408,1224,Cash,5,No
+660,24,Male,Fashion,4,451,1804,Card,2,No
+661,20,Male,Fashion,3,97,291,Digital Wallet,3,No
+662,29,Female,Electronics,4,14,56,Card,3,No
+663,56,Female,Electronics,2,267,534,Digital Wallet,2,No
+664,35,Male,Sports,5,86,430,Cash,4,No
+665,26,Female,Fashion,2,211,422,Digital Wallet,5,Yes
+666,56,Female,Beauty,4,269,1076,Digital Wallet,4,Yes
+667,60,Male,Sports,4,419,1676,Digital Wallet,2,Yes
+668,51,Female,Fashion,5,423,2115,Cash,5,Yes
+669,21,Female,Sports,2,352,704,Cash,3,No
+670,26,Male,Sports,3,151,453,Digital Wallet,4,Yes
+671,55,Male,Beauty,4,359,1436,Card,5,Yes
+672,25,Male,Groceries,1,221,221,Card,1,No
+673,26,Male,Home,1,343,343,Digital Wallet,2,Yes
+674,65,Female,Sports,1,58,58,Card,4,Yes
+675,59,Female,Beauty,3,230,690,Cash,1,No
+676,60,Male,Electronics,4,403,1612,Cash,3,No
+677,43,Female,Groceries,1,17,17,Digital Wallet,1,No
+678,48,Female,Sports,3,412,1236,Digital Wallet,3,Yes
+679,46,Male,Home,5,159,795,Cash,2,No
+680,22,Male,Fashion,1,103,103,Card,2,No
+681,48,Male,Groceries,1,63,63,Cash,5,No
+682,63,Female,Groceries,2,330,660,Card,1,Yes
+683,49,Female,Sports,5,180,900,Card,2,Yes
+684,42,Female,Beauty,1,35,35,Cash,2,No
+685,42,Female,Home,4,439,1756,Digital Wallet,2,Yes
+686,31,Male,Home,1,168,168,Digital Wallet,5,No
+687,30,Male,Fashion,2,447,894,Cash,3,Yes
+688,26,Female,Electronics,5,204,1020,Cash,2,Yes
+689,61,Female,Fashion,5,412,2060,Digital Wallet,4,Yes
+690,51,Male,Electronics,4,346,1384,Cash,3,No
+691,45,Female,Home,1,162,162,Digital Wallet,2,Yes
+692,47,Female,Fashion,5,314,1570,Card,1,No
+693,49,Female,Home,1,78,78,Card,5,No
+694,58,Male,Electronics,1,386,386,Cash,4,Yes
+695,56,Female,Sports,2,469,938,Cash,5,Yes
+696,22,Male,Beauty,5,173,865,Card,4,No
+697,58,Male,Groceries,4,215,860,Digital Wallet,4,No
+698,50,Male,Home,1,201,201,Cash,5,Yes
+699,42,Female,Fashion,3,389,1167,Digital Wallet,4,Yes
+700,51,Female,Electronics,3,65,195,Digital Wallet,5,Yes
+701,35,Male,Electronics,5,104,520,Digital Wallet,5,No
+702,30,Female,Electronics,4,220,880,Cash,4,No
+703,22,Male,Groceries,1,299,299,Card,5,No
+704,18,Female,Home,1,106,106,Card,3,Yes
+705,54,Male,Beauty,5,208,1040,Card,1,Yes
+706,34,Female,Home,4,166,664,Digital Wallet,4,Yes
+707,24,Male,Electronics,2,498,996,Digital Wallet,3,No
+708,25,Male,Beauty,2,180,360,Card,2,No
+709,21,Male,Beauty,3,460,1380,Card,2,Yes
+710,48,Female,Electronics,5,188,940,Card,1,No
+711,62,Male,Beauty,3,427,1281,Card,1,No
+712,35,Female,Beauty,1,136,136,Card,3,No
+713,40,Female,Sports,1,63,63,Card,5,No
+714,21,Female,Beauty,5,327,1635,Digital Wallet,2,Yes
+715,65,Male,Fashion,4,392,1568,Cash,4,Yes
+716,64,Female,Groceries,2,29,58,Digital Wallet,5,Yes
+717,22,Male,Fashion,2,426,852,Cash,3,Yes
+718,29,Female,Groceries,5,187,935,Cash,4,No
+719,54,Male,Home,5,139,695,Digital Wallet,2,No
+720,52,Female,Groceries,2,193,386,Digital Wallet,1,No
+721,42,Female,Beauty,1,466,466,Card,3,No
+722,43,Male,Beauty,5,380,1900,Digital Wallet,4,No
+723,63,Male,Beauty,4,48,192,Digital Wallet,1,Yes
+724,56,Male,Home,5,120,600,Card,3,Yes
+725,60,Female,Fashion,4,318,1272,Digital Wallet,1,Yes
+726,61,Male,Sports,3,280,840,Cash,3,No
+727,28,Male,Home,1,77,77,Card,2,No
+728,24,Male,Sports,3,429,1287,Cash,4,No
+729,23,Male,Electronics,4,320,1280,Digital Wallet,3,Yes
+730,65,Female,Groceries,3,133,399,Cash,2,Yes
+731,61,Male,Electronics,1,170,170,Card,1,Yes
+732,27,Female,Home,4,170,680,Card,1,Yes
+733,40,Male,Fashion,2,469,938,Cash,4,Yes
+734,63,Male,Beauty,1,239,239,Card,3,Yes
+735,21,Male,Beauty,5,81,405,Card,4,Yes
+736,23,Female,Fashion,3,463,1389,Cash,5,No
+737,50,Male,Beauty,2,327,654,Cash,4,Yes
+738,38,Male,Home,3,32,96,Digital Wallet,4,Yes
+739,62,Female,Fashion,5,422,2110,Cash,3,Yes
+740,25,Female,Sports,2,59,118,Cash,2,Yes
+741,50,Male,Groceries,4,265,1060,Cash,4,No
+742,49,Female,Sports,4,254,1016,Cash,2,No
+743,39,Male,Fashion,1,155,155,Card,5,No
+744,54,Male,Fashion,3,359,1077,Digital Wallet,4,No
+745,25,Female,Home,3,467,1401,Cash,5,No
+746,58,Female,Electronics,5,332,1660,Cash,5,No
+747,63,Male,Home,5,317,1585,Digital Wallet,1,Yes
+748,31,Female,Beauty,1,129,129,Digital Wallet,5,Yes
+749,38,Male,Groceries,4,55,220,Digital Wallet,1,Yes
+750,49,Female,Fashion,5,341,1705,Digital Wallet,3,Yes
+751,48,Male,Electronics,5,300,1500,Card,5,No
+752,55,Male,Groceries,3,194,582,Cash,1,Yes
+753,63,Female,Groceries,3,223,669,Digital Wallet,2,Yes
+754,28,Male,Groceries,2,291,582,Cash,5,Yes
+755,65,Female,Home,1,41,41,Digital Wallet,1,Yes
+756,28,Male,Beauty,5,447,2235,Cash,3,No
+757,46,Male,Home,3,432,1296,Cash,5,Yes
+758,41,Male,Fashion,4,134,536,Card,4,No
+759,58,Male,Beauty,1,185,185,Digital Wallet,3,Yes
+760,38,Female,Sports,2,225,450,Cash,5,Yes
+761,58,Male,Fashion,3,137,411,Card,2,Yes
+762,27,Male,Sports,1,116,116,Cash,4,No
+763,24,Female,Electronics,1,252,252,Digital Wallet,3,Yes
+764,41,Male,Electronics,2,368,736,Cash,5,Yes
+765,41,Male,Sports,4,133,532,Cash,3,Yes
+766,48,Female,Electronics,1,35,35,Digital Wallet,2,Yes
+767,45,Female,Fashion,1,401,401,Cash,4,No
+768,42,Female,Fashion,4,434,1736,Digital Wallet,3,Yes
+769,59,Female,Home,5,414,2070,Digital Wallet,2,No
+770,35,Male,Home,4,288,1152,Digital Wallet,5,Yes
+771,42,Male,Beauty,1,305,305,Cash,3,Yes
+772,33,Female,Sports,1,470,470,Card,4,Yes
+773,23,Female,Beauty,5,194,970,Digital Wallet,3,Yes
+774,59,Male,Electronics,4,394,1576,Digital Wallet,1,Yes
+775,57,Male,Sports,4,12,48,Card,4,No
+776,54,Male,Beauty,5,356,1780,Cash,1,No
+777,45,Male,Home,4,266,1064,Digital Wallet,3,Yes
+778,39,Male,Beauty,2,151,302,Card,4,Yes
+779,41,Male,Beauty,5,197,985,Cash,4,Yes
+780,44,Male,Sports,5,370,1850,Cash,2,No
+781,56,Female,Sports,2,78,156,Digital Wallet,5,Yes
+782,38,Male,Home,4,92,368,Digital Wallet,5,Yes
+783,24,Female,Beauty,2,322,644,Cash,4,No
+784,30,Male,Groceries,3,17,51,Card,5,No
+785,34,Female,Beauty,4,311,1244,Card,4,No
+786,56,Female,Groceries,5,240,1200,Card,4,No
+787,29,Female,Sports,5,264,1320,Card,4,Yes
+788,31,Female,Beauty,2,388,776,Card,4,No
+789,63,Male,Home,5,232,1160,Digital Wallet,2,Yes
+790,21,Male,Groceries,4,362,1448,Card,1,Yes
+791,54,Female,Sports,1,22,22,Digital Wallet,3,Yes
+792,36,Male,Sports,4,328,1312,Cash,2,Yes
+793,54,Female,Groceries,4,420,1680,Cash,2,Yes
+794,26,Male,Electronics,3,56,168,Card,3,Yes
+795,45,Male,Electronics,4,194,776,Cash,2,Yes
+796,29,Male,Fashion,3,10,30,Card,2,Yes
+797,25,Female,Home,5,271,1355,Digital Wallet,1,No
+798,57,Male,Sports,5,18,90,Cash,3,Yes
+799,56,Female,Beauty,1,201,201,Card,3,No
+800,31,Male,Sports,3,330,990,Card,4,Yes
+801,51,Female,Home,4,320,1280,Card,2,Yes
+802,46,Female,Sports,1,62,62,Cash,3,No
+803,38,Female,Home,3,134,402,Cash,1,Yes
+804,48,Female,Electronics,2,298,596,Cash,5,Yes
+805,60,Male,Beauty,3,195,585,Digital Wallet,2,Yes
+806,52,Male,Home,3,458,1374,Card,4,Yes
+807,30,Male,Fashion,3,452,1356,Cash,2,Yes
+808,35,Female,Fashion,5,42,210,Card,2,No
+809,32,Male,Electronics,3,36,108,Cash,1,Yes
+810,30,Female,Sports,4,477,1908,Card,3,No
+811,60,Male,Groceries,1,469,469,Cash,4,Yes
+812,44,Male,Home,1,40,40,Cash,4,Yes
+813,54,Female,Sports,5,159,795,Digital Wallet,5,No
+814,27,Female,Sports,1,327,327,Cash,2,No
+815,47,Female,Home,4,138,552,Digital Wallet,4,Yes
+816,53,Female,Sports,5,65,325,Cash,4,Yes
+817,35,Female,Sports,3,107,321,Card,4,No
+818,61,Female,Sports,2,363,726,Card,4,No
+819,21,Female,Fashion,1,174,174,Card,4,Yes
+820,28,Male,Sports,4,208,832,Card,1,Yes
+821,25,Female,Fashion,1,403,403,Card,1,No
+822,27,Female,Groceries,2,461,922,Card,5,Yes
+823,64,Male,Sports,5,358,1790,Card,1,Yes
+824,64,Male,Electronics,4,57,228,Digital Wallet,3,No
+825,49,Female,Electronics,2,204,408,Card,2,Yes
+826,52,Female,Groceries,1,146,146,Card,1,No
+827,18,Male,Electronics,3,224,672,Digital Wallet,2,No
+828,38,Male,Sports,4,128,512,Digital Wallet,5,No
+829,22,Female,Fashion,3,428,1284,Card,3,Yes
+830,47,Female,Beauty,4,184,736,Card,2,No
+831,26,Female,Fashion,3,126,378,Digital Wallet,5,Yes
+832,25,Male,Beauty,1,112,112,Cash,3,Yes
+833,25,Male,Home,2,306,612,Card,4,No
+834,23,Male,Beauty,4,38,152,Cash,4,Yes
+835,64,Male,Electronics,5,23,115,Cash,5,No
+836,34,Male,Home,4,486,1944,Card,1,Yes
+837,31,Female,Beauty,4,143,572,Cash,3,Yes
+838,51,Male,Groceries,2,59,118,Card,2,Yes
+839,47,Male,Fashion,3,494,1482,Cash,3,No
+840,50,Male,Sports,3,484,1452,Digital Wallet,5,No
+841,24,Male,Beauty,5,392,1960,Cash,3,No
+842,45,Male,Beauty,5,239,1195,Card,5,No
+843,43,Male,Beauty,4,484,1936,Cash,4,Yes
+844,43,Female,Beauty,3,209,627,Digital Wallet,5,Yes
+845,35,Male,Fashion,3,468,1404,Card,4,No
+846,54,Male,Sports,3,425,1275,Card,5,Yes
+847,22,Female,Home,5,164,820,Card,5,No
+848,56,Female,Home,3,393,1179,Digital Wallet,3,Yes
+849,51,Female,Fashion,1,278,278,Card,3,No
+850,37,Female,Sports,5,17,85,Card,2,No
+851,45,Male,Home,4,242,968,Card,4,No
+852,36,Female,Groceries,4,354,1416,Digital Wallet,4,Yes
+853,54,Male,Sports,5,29,145,Cash,3,Yes
+854,63,Male,Fashion,5,249,1245,Digital Wallet,5,No
+855,28,Female,Fashion,5,99,495,Digital Wallet,4,No
+856,23,Male,Fashion,3,92,276,Cash,2,No
+857,30,Female,Home,2,113,226,Cash,2,Yes
+858,44,Male,Beauty,2,341,682,Cash,4,No
+859,32,Male,Electronics,1,349,349,Card,1,Yes
+860,65,Female,Electronics,2,433,866,Digital Wallet,5,Yes
+861,62,Male,Sports,4,427,1708,Card,2,Yes
+862,26,Female,Home,4,413,1652,Cash,3,Yes
+863,55,Female,Fashion,2,107,214,Card,3,Yes
+864,47,Female,Sports,2,62,124,Cash,4,No
+865,63,Male,Electronics,1,109,109,Cash,2,Yes
+866,36,Female,Beauty,5,500,2500,Cash,3,No
+867,22,Male,Groceries,3,32,96,Cash,2,No
+868,40,Female,Fashion,4,299,1196,Digital Wallet,4,Yes
+869,45,Male,Beauty,5,477,2385,Digital Wallet,2,Yes
+870,47,Male,Home,2,390,780,Digital Wallet,5,Yes
+871,38,Female,Sports,4,23,92,Card,5,No
+872,59,Female,Fashion,4,371,1484,Digital Wallet,1,No
+873,29,Female,Home,4,121,484,Digital Wallet,3,No
+874,20,Male,Home,4,456,1824,Digital Wallet,1,Yes
+875,56,Female,Groceries,4,403,1612,Cash,5,No
+876,38,Female,Sports,3,12,36,Digital Wallet,1,No
+877,24,Female,Electronics,3,211,633,Cash,1,Yes
+878,50,Male,Home,1,28,28,Cash,2,No
+879,32,Male,Groceries,3,209,627,Digital Wallet,1,No
+880,47,Female,Home,1,284,284,Digital Wallet,3,No
+881,27,Female,Fashion,1,247,247,Card,5,Yes
+882,24,Male,Sports,5,453,2265,Card,5,Yes
+883,44,Male,Home,5,489,2445,Card,2,No
+884,29,Female,Groceries,2,427,854,Digital Wallet,5,No
+885,27,Male,Home,1,170,170,Cash,1,No
+886,33,Male,Electronics,4,450,1800,Digital Wallet,2,No
+887,38,Female,Electronics,2,285,570,Card,2,Yes
+888,33,Male,Electronics,3,177,531,Cash,4,No
+889,65,Female,Beauty,2,400,800,Cash,5,No
+890,20,Male,Fashion,1,28,28,Cash,4,Yes
+891,20,Male,Home,1,381,381,Digital Wallet,3,Yes
+892,54,Female,Groceries,2,465,930,Digital Wallet,2,Yes
+893,22,Female,Fashion,2,183,366,Cash,2,No
+894,20,Male,Electronics,1,110,110,Digital Wallet,4,No
+895,54,Female,Beauty,2,185,370,Digital Wallet,1,No
+896,27,Female,Home,1,237,237,Card,5,No
+897,61,Male,Home,4,358,1432,Digital Wallet,3,No
+898,49,Female,Electronics,3,160,480,Digital Wallet,1,No
+899,40,Male,Fashion,2,387,774,Digital Wallet,2,No
+900,29,Female,Groceries,5,97,485,Digital Wallet,5,No
+901,52,Male,Fashion,4,27,108,Digital Wallet,3,Yes
+902,45,Male,Beauty,3,17,51,Cash,4,No
+903,20,Female,Electronics,2,200,400,Cash,2,No
+904,58,Female,Electronics,4,182,728,Digital Wallet,3,Yes
+905,28,Male,Fashion,4,284,1136,Digital Wallet,3,Yes
+906,29,Female,Groceries,1,407,407,Card,2,No
+907,34,Male,Groceries,1,288,288,Cash,5,Yes
+908,54,Female,Sports,2,193,386,Digital Wallet,3,Yes
+909,54,Female,Electronics,2,112,224,Digital Wallet,4,Yes
+910,21,Female,Home,4,218,872,Digital Wallet,1,No
+911,38,Male,Sports,4,97,388,Digital Wallet,5,Yes
+912,63,Male,Groceries,5,267,1335,Card,3,No
+913,34,Female,Home,4,389,1556,Cash,3,No
+914,55,Female,Beauty,4,50,200,Card,4,No
+915,41,Female,Sports,1,125,125,Digital Wallet,1,Yes
+916,21,Female,Beauty,4,483,1932,Card,5,No
+917,49,Male,Home,1,131,131,Card,3,Yes
+918,24,Male,Sports,5,322,1610,Digital Wallet,4,Yes
+919,22,Female,Home,1,208,208,Cash,1,Yes
+920,57,Female,Home,2,457,914,Digital Wallet,5,No
+921,44,Male,Groceries,4,349,1396,Cash,3,Yes
+922,18,Male,Home,3,178,534,Digital Wallet,1,Yes
+923,47,Female,Fashion,5,51,255,Card,2,Yes
+924,44,Male,Home,1,431,431,Digital Wallet,2,No
+925,57,Female,Groceries,5,75,375,Digital Wallet,2,No
+926,23,Female,Beauty,4,76,304,Card,2,Yes
+927,60,Female,Home,3,480,1440,Cash,1,Yes
+928,30,Male,Home,3,329,987,Card,1,Yes
+929,65,Male,Fashion,5,259,1295,Card,3,No
+930,40,Male,Groceries,4,116,464,Cash,1,No
+931,41,Male,Groceries,2,74,148,Card,2,Yes
+932,32,Female,Sports,4,432,1728,Card,1,No
+933,21,Female,Beauty,5,129,645,Digital Wallet,3,Yes
+934,18,Female,Groceries,4,360,1440,Card,5,Yes
+935,40,Female,Home,3,333,999,Cash,1,Yes
+936,25,Male,Home,2,467,934,Card,3,No
+937,42,Female,Sports,4,321,1284,Card,3,Yes
+938,20,Female,Groceries,4,344,1376,Digital Wallet,2,No
+939,59,Male,Sports,5,457,2285,Cash,4,No
+940,61,Female,Fashion,4,441,1764,Card,2,No
+941,26,Male,Electronics,4,42,168,Cash,4,No
+942,48,Female,Home,5,382,1910,Card,4,Yes
+943,49,Male,Electronics,1,370,370,Cash,4,Yes
+944,29,Female,Sports,3,196,588,Digital Wallet,3,Yes
+945,44,Female,Sports,1,246,246,Digital Wallet,3,Yes
+946,18,Male,Beauty,5,124,620,Cash,1,No
+947,28,Female,Home,1,202,202,Digital Wallet,1,No
+948,57,Female,Home,3,178,534,Card,1,Yes
+949,23,Male,Sports,3,25,75,Digital Wallet,1,No
+950,33,Male,Sports,3,365,1095,Cash,4,Yes
+951,65,Male,Sports,1,322,322,Card,2,No
+952,49,Female,Groceries,2,355,710,Digital Wallet,3,Yes
+953,58,Male,Electronics,5,335,1675,Cash,5,Yes
+954,19,Female,Home,1,375,375,Digital Wallet,4,Yes
+955,32,Male,Electronics,2,24,48,Card,1,No
+956,18,Male,Beauty,1,35,35,Card,5,Yes
+957,59,Male,Fashion,3,79,237,Cash,4,Yes
+958,64,Female,Beauty,1,268,268,Card,2,No
+959,65,Male,Beauty,1,175,175,Card,3,Yes
+960,34,Female,Beauty,5,500,2500,Digital Wallet,1,No
+961,18,Female,Home,2,171,342,Cash,3,Yes
+962,25,Male,Beauty,1,166,166,Cash,5,Yes
+963,56,Female,Fashion,1,257,257,Cash,3,Yes
+964,18,Male,Sports,4,317,1268,Card,3,No
+965,63,Male,Groceries,5,497,2485,Card,1,No
+966,18,Female,Home,4,358,1432,Cash,1,Yes
+967,55,Male,Groceries,1,153,153,Card,2,No
+968,27,Male,Sports,4,122,488,Card,3,Yes
+969,33,Female,Fashion,2,65,130,Cash,2,Yes
+970,26,Female,Home,4,405,1620,Cash,5,Yes
+971,55,Female,Fashion,5,265,1325,Digital Wallet,2,No
+972,54,Male,Sports,4,396,1584,Digital Wallet,4,No
+973,33,Female,Beauty,5,365,1825,Digital Wallet,3,No
+974,37,Male,Groceries,3,124,372,Card,3,Yes
+975,63,Male,Home,4,105,420,Digital Wallet,2,Yes
+976,36,Female,Fashion,3,402,1206,Card,1,No
+977,40,Female,Beauty,1,235,235,Card,3,No
+978,19,Female,Groceries,5,325,1625,Card,1,No
+979,52,Male,Beauty,5,111,555,Card,1,Yes
+980,61,Female,Electronics,4,439,1756,Cash,3,No
+981,47,Female,Fashion,4,366,1464,Card,3,No
+982,30,Female,Groceries,5,75,375,Digital Wallet,1,Yes
+983,34,Female,Sports,5,48,240,Digital Wallet,2,No
+984,46,Male,Beauty,4,14,56,Cash,1,Yes
+985,30,Female,Groceries,3,94,282,Digital Wallet,4,No
+986,62,Male,Home,3,484,1452,Cash,1,Yes
+987,20,Female,Sports,4,12,48,Digital Wallet,4,No
+988,58,Female,Home,5,429,2145,Card,5,No
+989,59,Female,Groceries,5,275,1375,Cash,3,No
+990,54,Male,Beauty,3,266,798,Cash,1,No
+991,39,Female,Beauty,3,442,1326,Card,5,No
+992,18,Female,Home,5,311,1555,Digital Wallet,3,No
+993,27,Male,Sports,5,397,1985,Card,2,No
+994,65,Male,Sports,1,475,475,Card,2,Yes
+995,19,Male,Sports,4,228,912,Cash,4,No
+996,45,Male,Electronics,2,236,472,Digital Wallet,2,No
+997,34,Female,Beauty,1,15,15,Card,3,Yes
+998,58,Male,Home,1,101,101,Card,2,No
+999,30,Male,Electronics,3,431,1293,Cash,3,Yes
+1000,53,Female,Electronics,2,18,36,Card,4,Yes
